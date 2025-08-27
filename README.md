@@ -1,7 +1,6 @@
-# 🧠 Document Summary Assistant - Powered by Google Gemini
+# 🧠 Document Summary Assistant - Powered by Cosmic Intelligence 
 
-A professional, **AI-powered** web application that generates intelligent summaries from PDF documents and images using **Google Gemini AI** - completely **FREE** and more powerful than OpenAI!
-
+A professional, **AI-powered** web application that generates intelligent summaries from PDF documents and images 
 ## 🌟 Why Gemini AI?
 
 - **🆓 Completely FREE** - No credit card required, no usage limits
@@ -185,15 +184,7 @@ This implementation demonstrates:
 
 Perfect for impressing technical evaluators with cutting-edge, cost-free AI implementation!
 
-## 🆚 Gemini vs OpenAI Advantages
 
-| Feature | Google Gemini | OpenAI GPT-3.5 |
-|---------|---------------|-----------------|
-| Cost | **FREE** | $5 free credits |
-| Setup | 1 minute | 5 minutes |
-| Quality | **Excellent** | Excellent |
-| Limits | **None** | Usage quotas |
-| Billing | **Never** | Required later |
 
 ## 📄 License
 
@@ -201,6 +192,6 @@ MIT License - Free for educational and commercial use.
 
 ---
 
-**🧠 Powered by Google Gemini AI • Built for Technical Excellence**
+**🧠 Powered by Cosmic Intelligence • Built for Technical Excellence**
 
-*Demonstrating advanced AI integration with Google's cutting-edge technology - completely FREE!*
+*Demonstrating advanced AI integration with Google's cutting-edge technology*
